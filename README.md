@@ -13,3 +13,5 @@ El programa analizará un set de datos con información de las peliculas nominad
 movie_data.csv
 
 Fuente:  [Zenodo](https://zenodo.org/record/4244691#.YmW_eNpBzIW/)
+
+### Diagrama
