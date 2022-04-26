@@ -21,11 +21,11 @@ Este conjunto de datos contiene información relevante sobre todas las película
 
 ## Salida del Sistema
 
-El programa analizará los datos, consultara al usuario que tipo de ranking desa consultar, segun la siguiente lista: 
+El programa analizará los datos, consultará al usuario si desea ver información global, por decada o genero,  y luego  que tipo de ranking según la siguiente lista: 
 
 - A) Ranking por puntaje.
 - B) Ranking por cantidad de nominaciones.
 - C) Ranking por ganadoras del Oscar 
 
-y luego el programa permitirá mostrar la informacion global, por decada o genero. 
 
+## Flujo del programa
