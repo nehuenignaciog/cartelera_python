@@ -29,3 +29,6 @@ El programa analizará los datos, consultará al usuario si desea ver informaci�
 
 
 ## Flujo del programa
+<div align="center">
+  <img src="/images/diagrama.jpg">
+</div>
