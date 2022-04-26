@@ -19,6 +19,13 @@ Fuente:  [Zenodo](https://zenodo.org/record/4244691#.YmW_eNpBzIW/)
 Este conjunto de datos contiene información relevante sobre todas las películas nominadas o galardonadas con el premio Oscar a la mejor película. Los datos se han recopilado al 4 de noviembre de 2020 y la información se refiere a todas las ediciones de este premio desde que comenzó en 1929.
 
 
-## Diagrama
+## Salida del Sistema
 
+El programa analizará los datos, consultara al usuario que tipo de ranking desa consultar, segun la siguiente lista: 
+
+- A) Ranking por puntaje.
+- B) Ranking por cantidad de nominaciones.
+- C) Ranking por ganadoras del Oscar 
+
+y luego el programa permitirá mostrar la informacion global, por decada o genero. 
 
