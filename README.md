@@ -5,7 +5,7 @@
 
 ## Propósito
 
-El programa analizará un set de datos con información de las peliculas nominadas a mejor pelicula, y ofrecera al usuario una sugerencia , segun genero de las que tienen mas nominaciones o mejor puntaje, ordenadas por decadas.
+El programa analizará un set de datos con información de las peliculas nominadas a mejor pelicula, y ofrecera diferentes tipos de ranking, segun preferencia del usuario.
 
 - 1 - Importar data set de peliculas nominadas al Oscar.
 - 2 - Analizar los datos.
