@@ -1,6 +1,9 @@
-![descripcion](/images/CARTELERA.png)
 
-### Propósito
+<div align="center">
+  <img src="/images/CARTELERA.png">
+</div>
+
+## Propósito
 
 El programa analizará un set de datos con información de las peliculas nominadas a mejor pelicula, y ofrecera al usuario una sugerencia , segun genero de las que tienen mas nominaciones o mejor puntaje, ordenadas por decadas.
 
@@ -9,9 +12,13 @@ El programa analizará un set de datos con información de las peliculas nominad
 - 3 - Mostrar al usuario sugerencias de cartelera para disfrutar de un buen cine. 
 
 
-### Set de datos
+## Entrada del sistema
 movie_data.csv
-
 Fuente:  [Zenodo](https://zenodo.org/record/4244691#.YmW_eNpBzIW/)
 
-### Diagrama
+Este conjunto de datos contiene información relevante sobre todas las películas nominadas o galardonadas con el premio Oscar a la mejor película. Los datos se han recopilado al 4 de noviembre de 2020 y la información se refiere a todas las ediciones de este premio desde que comenzó en 1929.
+
+
+## Diagrama
+
+
