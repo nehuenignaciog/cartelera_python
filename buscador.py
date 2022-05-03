@@ -8,6 +8,11 @@ ic = Cinemagoer()
 # creating instance of IMDb
 ia = imdb.IMDb()
 
+movie = ia.get_movie('660458')
+
+print (movie)
+
+
 # movie name
 
 movies = ic.get_keyword('dystopia')
@@ -30,7 +35,6 @@ for i in search:
 # print(search)
 
 # get a movie
-movie = ia.get_movie('0133093')
 
 # print the names of the directors of the movie
 print('Directors:')
